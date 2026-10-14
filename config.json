@@ -1,0 +1,10 @@
+{
+    "model": "LSTM",
+    "max_words": 5000,
+    "max_len": 100,
+    "threshold": 0.5,
+    "label_mapping": {
+        "ham": 0,
+        "spam": 1
+    }
+}
